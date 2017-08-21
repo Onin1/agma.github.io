@@ -2045,11 +2045,12 @@ body.product .yotpo-review.yotpo-regular-box .yotpo-footer {
     font-size: 36px;
     font-weight: normal;
     line-height: 53px;
-    max-width: 480px;
+    max-width: 600px;
     text-align: left !important;
     margin-left: 0;
     padding-top: 0px;
     padding-left: 90px;
+	font-family: 'ProximaNovaLight'!important;
 }
 
 .static_page_banner .caption .lower_button {
