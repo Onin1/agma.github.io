@@ -2153,11 +2153,22 @@ body.product .yotpo-review.yotpo-regular-box .yotpo-footer {
     	max-width: 100%;
     	padding-left: 0px;
     	margin-top: 40px;
-		text-align:center;
-		
-
-}
-}
+		text-align:center !important;	
+	}
+	.banner_container .caption p.text-shadow {
+		font-size: 24px;
+    	line-height: 34px;
+    	padding-left: 40px;
+   		max-width: 100%;
+    	margin-bottom: 6% !important;
+	}
+	.static_page_banner .caption .product_button{	
+	margin-bottom: 1%;
+	font-size:15px;
+	}
+	.product_button img {
+    width: 35px;
+	}
 	
 
 }
