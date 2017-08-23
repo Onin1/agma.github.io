@@ -2083,23 +2083,23 @@ body.product .yotpo-review.yotpo-regular-box .yotpo-footer {
 }
 @media only screen and (max-width: 1280px) {
 	.banner_container .caption h1.color_white {
-		font-size: 45px;
-		line-height: 55px;
-		max-width: 600px;
+		font-size: 40px;
+		line-height: 50px;
+		max-width: 500px;
 		padding-left: 40px;
 
 }
 .banner_container .caption p.text-shadow {
-		font-size: 26px;
-		line-height: 36px;
+		font-size: 24px;
+		line-height: 32px;
 		padding-left: 40px;
 		max-width: 500px;
 }
 .static_page_banner .banner_container .caption{
-		top:96% !important;
+		top:105% !important;
 
 }
 .static_page_banner .caption .product_button{
-	margin-bottom: 20%;
+	margin-bottom: 35%;
 }
 }
