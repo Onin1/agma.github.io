@@ -2087,6 +2087,7 @@ body.product .yotpo-review.yotpo-regular-box .yotpo-footer {
 		line-height: 50px;
 		max-width: 500px;
 		padding-left: 40px;
+		margin-top: -20px;
 
 }
 .banner_container .caption p.text-shadow {
@@ -2096,10 +2097,10 @@ body.product .yotpo-review.yotpo-regular-box .yotpo-footer {
 		max-width: 500px;
 }
 .static_page_banner .banner_container .caption{
-		top:105% !important;
+		top:73% !important;
 
 }
 .static_page_banner .caption .product_button{
-	margin-bottom: 35%;
+	margin-bottom: 2%;
 }
 }
