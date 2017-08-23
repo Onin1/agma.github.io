@@ -2057,7 +2057,7 @@ body.product .yotpo-review.yotpo-regular-box .yotpo-footer {
     min-height: 0 !important;
 }
 
-static_page_banner .caption .product_button{
+.static_page_banner .caption .product_button{
 	margin-bottom: 3%;
 	display: block;
 }
