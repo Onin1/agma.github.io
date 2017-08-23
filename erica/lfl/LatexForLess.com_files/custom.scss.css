@@ -2140,6 +2140,13 @@ body.product .yotpo-review.yotpo-regular-box .yotpo-footer {
     	max-height: inherit !important;
     	background-color: transparent !important;
 	}
+	.static_page_banner .caption {
+        margin: 5% 0;
+        font-size: 3vw;
+        position: static;
+        transform: none;
+        width: 100%
+    }
 	
 
 }
