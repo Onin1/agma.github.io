@@ -2161,7 +2161,7 @@ body.product .yotpo-review.yotpo-regular-box .yotpo-footer {
    		max-width: 100%;
     	margin-bottom: 6% !important;
 		text-align: center !important;
-		padding-left:0 !important;
+		padding:10px !important;
 	}
 	.static_page_banner .caption .product_button{	
 	margin-bottom: 1%;
@@ -2177,16 +2177,16 @@ body.product .yotpo-review.yotpo-regular-box .yotpo-footer {
 	}
 	
 	.banner_container .caption h1.color_white {
-		font-size: 30px;
-    	line-height: 40px;
-    	margin-top: 20px;
+		    font-size: 32px;
+   			line-height: 40px;
+    		margin-top: 40px;
 	}
 	
 	.banner_container .caption p.text-shadow {
 		font-size: 22px;
     	line-height: 30px;
 		text-align: center !important;
-		padding-left:0 !important;
+		padding:10px !important;
 	
 }
 
