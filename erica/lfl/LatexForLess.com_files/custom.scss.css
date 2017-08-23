@@ -100,7 +100,7 @@ div.logo {
 }
 
 @media only screen and (max-width: 1199px) and (min-width: 960px) {
-    .nav ul.menu {
+    .nav ul.menu { 
         padding-top: 14px !important;
         padding-bottom: 14px !important
     }
