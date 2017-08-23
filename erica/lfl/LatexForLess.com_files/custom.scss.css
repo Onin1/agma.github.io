@@ -2061,3 +2061,20 @@ body.product .yotpo-review.yotpo-regular-box .yotpo-footer {
 	margin-bottom: 3%;
 	display: block;
 }
+
+@media only screen and (min-width: 1400px) and (max-width: 1600px) {
+	.banner_container .caption h1.color_white {
+		font-size:50px;
+		line-height:65px;
+
+}
+.banner_container .caption p.text-shadow {
+		font-size: 32px;
+		font-weight: normal;
+		line-height: 48px;
+}
+.static_page_banner .banner_container .caption{
+		top:80% !important;
+
+}
+}
