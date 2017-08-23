@@ -2108,7 +2108,7 @@ body.product .yotpo-review.yotpo-regular-box .yotpo-footer {
 }
 }
 
-@media only screen and (min-width: 769px) and (max-width: 960px) {
+@media only screen and (max-width: 960px) {
 	.banner_container .caption h1.color_white {
 		font-size: 30px;
     	line-height: 40px;
@@ -2135,7 +2135,7 @@ body.product .yotpo-review.yotpo-regular-box .yotpo-footer {
     width: 3%;
 	}
 }
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 767px) {
 	.banner {
     	max-height: inherit !important;
     	background-color: transparent !important;
@@ -2145,7 +2145,7 @@ body.product .yotpo-review.yotpo-regular-box .yotpo-footer {
         font-size: 3vw;
         position: static;
         transform: none;
-        width: 100% !important;
+        width: 100%
     }
 	.banner_container .caption h1.color_white {
 		font-size: 38px;
