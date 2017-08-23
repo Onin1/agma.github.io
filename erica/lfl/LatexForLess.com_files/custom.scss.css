@@ -100,7 +100,7 @@ div.logo {
 }
 
 @media only screen and (max-width: 1199px) and (min-width: 960px) {
-    .nav ul.menu { 
+    .nav ul.menu {
         padding-top: 14px !important;
         padding-bottom: 14px !important
     }
@@ -2056,11 +2056,8 @@ body.product .yotpo-review.yotpo-regular-box .yotpo-footer {
 .static_page_banner .caption .lower_button {
     min-height: 0 !important;
 }
-<<<<<<< HEAD
 
 static_page_banner .caption .product_button{
 	margin-bottom: 3%;
 	display: block;
 }
-=======
->>>>>>> e4ef72f890bbfa0cc403abcb5bcef30ebcafa8b1
