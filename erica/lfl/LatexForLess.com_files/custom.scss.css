@@ -2135,7 +2135,7 @@ body.product .yotpo-review.yotpo-regular-box .yotpo-footer {
     width: 3%;
 	}
 }
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 767px) {
 	.banner {
     	max-height: inherit !important;
     	background-color: transparent !important;
