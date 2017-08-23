@@ -2051,6 +2051,7 @@ body.product .yotpo-review.yotpo-regular-box .yotpo-footer {
     padding-top: 0px;
     padding-left: 90px;
 	font-family: 'ProximaNovaLight'!important;
+	margin-bottom: 0 !important;
 }
 
 .static_page_banner .caption .lower_button {
@@ -2072,6 +2073,7 @@ body.product .yotpo-review.yotpo-regular-box .yotpo-footer {
 		font-size: 32px;
 		font-weight: normal;
 		line-height: 48px;
+		margin-bottom: 0 !important;
 }
 .static_page_banner .banner_container .caption{
 		top:80% !important;
@@ -2095,6 +2097,7 @@ body.product .yotpo-review.yotpo-regular-box .yotpo-footer {
 		line-height: 32px;
 		padding-left: 40px;
 		max-width: 500px;
+		margin-bottom: 0 !important;
 }
 .static_page_banner .banner_container .caption{
 		top:73% !important;
@@ -2103,4 +2106,29 @@ body.product .yotpo-review.yotpo-regular-box .yotpo-footer {
 .static_page_banner .caption .product_button{
 	margin-bottom: 2%;
 }
+}
+
+@media only screen and (max-width: 960px) {
+	.banner_container .caption h1.color_white {
+		font-size: 30px;
+    	line-height: 40px;
+   	 	max-width: 400px;
+    	padding-left: 40px;
+    	margin-top: 60px;
+	}
+	
+	.banner_container .caption p.text-shadow {
+		font-size: 22px;
+    	line-height: 30px;
+    	padding-left: 40px;
+    	max-width: 400px;
+		margin-bottom: 0 !important;
+	}
+	.static_page_banner .banner_container .caption{
+		top:73% !important;
+	}
+	.static_page_banner .caption .product_button{
+	margin-bottom: 2%;
+	}
+	}
 }
