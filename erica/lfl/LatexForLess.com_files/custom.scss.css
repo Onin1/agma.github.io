@@ -2077,4 +2077,7 @@ body.product .yotpo-review.yotpo-regular-box .yotpo-footer {
 		top:80% !important;
 
 }
+.static_page_banner .caption .product_button{
+	margin-bottom: 8%;
+}
 }
