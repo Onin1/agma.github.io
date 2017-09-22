@@ -2222,11 +2222,16 @@ h1.home-product-title {
 .product-wrap p {
     font-size: 24px;
     font-family: "ProximaNovaLight";
-	margin:30px 25px;
+	margin-left:30px;
+	margin-right: 25px;
+	margin-left:25px;
+	margin-top:30px;
+	margin-bottom:30px;
 }
 .product-wrap a.button{
 	min-height:54px;
 	min-width:240px;
 	font-size:24px;
 	font-family:"ProximaNovaBold";
+	font-weight:normal;
 }
