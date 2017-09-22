@@ -2191,3 +2191,14 @@ body.product .yotpo-review.yotpo-regular-box .yotpo-footer {
 }
 
 }
+
+/*PRODUCT CAROUSSEL */ 
+
+.product_grid_container{
+	width:100% !important;
+}
+
+.product_grid_container .sixteen{
+	width:100% !important;
+	max-width:1870px;
+}
