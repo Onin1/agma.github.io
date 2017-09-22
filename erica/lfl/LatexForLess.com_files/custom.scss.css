@@ -2195,7 +2195,8 @@ body.product .yotpo-review.yotpo-regular-box .yotpo-footer {
 /*PRODUCT CAROUSSEL */ 
 
 .product_grid_container{
-	width:100% !important;
+	width: auto !important;
+	display: table;
 }
 
 .product_grid_container .sixteen{
