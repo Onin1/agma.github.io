@@ -2227,4 +2227,6 @@ h1.home-product-title {
 .product-wrap a.button{
 	min-height:54px;
 	min-width:240px;
+	font-size:24px;
+	font-family:"ProximaNovaBold";
 }
