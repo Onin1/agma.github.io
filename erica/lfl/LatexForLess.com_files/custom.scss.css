@@ -2206,3 +2206,8 @@ body.product .yotpo-review.yotpo-regular-box .yotpo-footer {
 .product_grid_container .home-product {
     width: 340px !important; 
 }
+
+.column, .columns {
+    margin-left: 15px;
+    margin-right: 15px;
+}
