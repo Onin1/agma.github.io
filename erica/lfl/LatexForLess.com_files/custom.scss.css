@@ -2203,7 +2203,7 @@ body.product .yotpo-review.yotpo-regular-box .yotpo-footer {
 	width:100% !important;
 	max-width:1870px;
 }
-.product_grid_container.one-fifth.column {
+.product_grid_container .one-fifth.column {
     width: 340px;
 }
 
