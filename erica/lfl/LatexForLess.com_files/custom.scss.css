@@ -2226,5 +2226,5 @@ h1.home-product-title {
 }
 .product-wrap a.button{
 	min-height:54px;
-	min-height:240px;
+	min-width:240px;
 }
