@@ -2218,7 +2218,9 @@ body.product .yotpo-review.yotpo-regular-box .yotpo-footer {
 h1.home-product-title {
     font-size: 40px;
 }
-
+.product-wrap{
+	margin-bottom:20px;
+}
 .product-wrap p {
     font-size: 24px;
     font-family: "ProximaNovaLight";
